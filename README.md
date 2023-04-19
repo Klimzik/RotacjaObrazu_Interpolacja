@@ -1,4 +1,4 @@
-# rotacja_obrazu-interpolacja
+# RotacjaObrazu_Interpolacja
 Ten kod wykonuje dwie operacje na obrazie. Pierwszą z nich jest obrót obrazu o dowolny kąt.
 Obrót obrazu polega na obróceniu każdego piksela na obrazie wokół jego środka o wybrany kąt.
 Po obrocie obrazu, piksele znajdują się w nowych położeniach na obrazie.
